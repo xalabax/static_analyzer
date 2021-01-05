@@ -1,6 +1,6 @@
 description: The Dart analyzer settings with stricter linter rules that allow you to write more maintainable code and improve performance.
 version: 0.1.1
-homepage: https://github.com/vr19860507/strict_analyzer
+homepage: https://github.com/xalabax/static_analyzer
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
