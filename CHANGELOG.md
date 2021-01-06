@@ -1,4 +1,4 @@
-## [0.2.0] - Jan 06, 2021
+## [0.2.2] - Jan 06, 2021
 
 * lines_longer_than_80_chars: info
 * missing_whitespace_between_adjacent_strings: info
