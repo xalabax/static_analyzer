@@ -192,7 +192,7 @@ linter:
     - avoid_single_cascade_in_expression_statements # https://dart-lang.github.io/linter/lints/avoid_single_cascade_in_expression_statements.html
     - avoid_slow_async_io # https://dart-lang.github.io/linter/lints/avoid_slow_async_io.html
     - avoid_types_as_parameter_names # https://dart-lang.github.io/linter/lints/avoid_types_as_parameter_names.html
-    - avoid_types_on_closure_parameters # https://dart-lang.github.io/linter/lints/avoid_types_on_closure_parameters.html
+    #- avoid_types_on_closure_parameters # https://dart-lang.github.io/linter/lints/avoid_types_on_closure_parameters.html
     - avoid_unnecessary_containers # https://dart-lang.github.io/linter/lints/avoid_unnecessary_containers.html
     - avoid_unused_constructor_parameters # https://dart-lang.github.io/linter/lints/avoid_unused_constructor_parameters.html
     - avoid_void_async # https://dart-lang.github.io/linter/lints/avoid_void_async.html
@@ -224,7 +224,7 @@ linter:
     - leading_newlines_in_multiline_strings # https://dart-lang.github.io/linter/lints/leading_newlines_in_multiline_strings.html
     - library_names # https://dart-lang.github.io/linter/lints/library_names.html
     - library_prefixes # https://dart-lang.github.io/linter/lints/library_prefixes.html
-    - lines_longer_than_80_chars # https://dart-lang.github.io/linter/lints/lines_longer_than_80_chars.html
+    # lines_longer_than_80_chars # https://dart-lang.github.io/linter/lints/lines_longer_than_80_chars.html
     - list_remove_unrelated_type # https://dart-lang.github.io/linter/lints/list_remove_unrelated_type.html
     - literal_only_boolean_expressions # https://dart-lang.github.io/linter/lints/literal_only_boolean_expressions.html
     - missing_whitespace_between_adjacent_strings # https://dart-lang.github.io/linter/lints/missing_whitespace_between_adjacent_strings.html

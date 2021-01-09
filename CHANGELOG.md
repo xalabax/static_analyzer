@@ -1,3 +1,7 @@
+## [0.2.3] - Jan 09, 2021
+* Remove long String warning
+* Remove avoid_types_on_closure_parameters
+
 ## [0.2.2] - Jan 06, 2021
 
 * lines_longer_than_80_chars: info
