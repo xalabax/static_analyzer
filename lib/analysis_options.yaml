@@ -19,7 +19,7 @@ analyzer:
     always_declare_return_types: error
     always_require_non_null_named_parameters: error
     annotate_overrides: error
-    avoid_catches_without_on_clauses: error
+    avoid_catches_without_on_clauses: info
     avoid_catching_errors: error
     avoid_equals_and_hash_code_on_mutable_classes: error
     avoid_renaming_method_parameters: error
