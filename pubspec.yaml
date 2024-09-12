@@ -1,9 +1,9 @@
 description: The Dart analyzer settings with stricter linter rules that allow you to write more maintainable code and improve performance.
-version: 0.2.4
+version: 0.3.0
 homepage: https://github.com/xalabax/static_analyzer
 
 environment:
-  sdk: ">=2.12.0-0 <3.0.0"
+  sdk: ">=2.12.0-0 <4.0.0"
 
 name: static_analyze_av
 
@@ -14,6 +14,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-flutter:
-

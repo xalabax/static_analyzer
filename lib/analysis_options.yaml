@@ -149,7 +149,6 @@ linter:
     - always_declare_return_types # https://dart-lang.github.io/linter/lints/always_declare_return_types.html
     # - always_put_control_body_on_new_line # https://dart-lang.github.io/linter/lints/always_put_control_body_on_new_line.html
     # - always_put_required_named_parameters_first # https://dart-lang.github.io/linter/lints/always_put_required_named_parameters_first.html
-    - always_require_non_null_named_parameters # https://dart-lang.github.io/linter/lints/always_require_non_null_named_parameters.html
     # - always_specify_types # https://dart-lang.github.io/linter/lints/always_specify_types.html
     - annotate_overrides # https://dart-lang.github.io/linter/lints/annotate_overrides.html
     # - avoid_annotating_with_dynamic # https://dart-lang.github.io/linter/lints/avoid_annotating_with_dynamic.html
@@ -175,8 +174,6 @@ linter:
     - avoid_relative_lib_imports # https://dart-lang.github.io/linter/lints/avoid_relative_lib_imports.html
     - avoid_renaming_method_parameters # https://dart-lang.github.io/linter/lints/avoid_renaming_method_parameters.html
     - avoid_return_types_on_setters # https://dart-lang.github.io/linter/lints/avoid_return_types_on_setters.html
-    - avoid_returning_null # https://dart-lang.github.io/linter/lints/avoid_returning_null.html
-    - avoid_returning_null_for_future # https://dart-lang.github.io/linter/lints/avoid_returning_null_for_future.html
     - avoid_returning_null_for_void # https://dart-lang.github.io/linter/lints/avoid_returning_null_for_void.html
     - avoid_returning_this # https://dart-lang.github.io/linter/lints/avoid_returning_this.html
     # - avoid_setters_without_getters # https://dart-lang.github.io/linter/lints/avoid_setters_without_getters.html
@@ -210,14 +207,11 @@ linter:
     # - flutter_style_todos # https://dart-lang.github.io/linter/lints/flutter_style_todos.html
     - hash_and_equals # https://dart-lang.github.io/linter/lints/hash_and_equals.html
     - implementation_imports # https://dart-lang.github.io/linter/lints/implementation_imports.html
-    - invariant_booleans # https://dart-lang.github.io/linter/lints/invariant_booleans.html
-    - iterable_contains_unrelated_type # https://dart-lang.github.io/linter/lints/iterable_contains_unrelated_type.html
     - join_return_with_assignment # https://dart-lang.github.io/linter/lints/join_return_with_assignment.html
     - leading_newlines_in_multiline_strings # https://dart-lang.github.io/linter/lints/leading_newlines_in_multiline_strings.html
     - library_names # https://dart-lang.github.io/linter/lints/library_names.html
     - library_prefixes # https://dart-lang.github.io/linter/lints/library_prefixes.html
     # lines_longer_than_80_chars # https://dart-lang.github.io/linter/lints/lines_longer_than_80_chars.html
-    - list_remove_unrelated_type # https://dart-lang.github.io/linter/lints/list_remove_unrelated_type.html
     - literal_only_boolean_expressions # https://dart-lang.github.io/linter/lints/literal_only_boolean_expressions.html
     - missing_whitespace_between_adjacent_strings # https://dart-lang.github.io/linter/lints/missing_whitespace_between_adjacent_strings.html
     - no_adjacent_strings_in_list # https://dart-lang.github.io/linter/lints/no_adjacent_strings_in_list.html
@@ -247,7 +241,6 @@ linter:
     - prefer_constructors_over_static_methods # https://dart-lang.github.io/linter/lints/prefer_constructors_over_static_methods.html
     - prefer_contains # https://dart-lang.github.io/linter/lints/prefer_contains.html
     # - prefer_double_quotes # https://dart-lang.github.io/linter/lints/prefer_double_quotes.html
-    - prefer_equal_for_default_values # https://dart-lang.github.io/linter/lints/prefer_equal_for_default_values.html
     # - prefer_expression_function_bodies # https://dart-lang.github.io/linter/lints/prefer_expression_function_bodies.html
     - prefer_final_fields # https://dart-lang.github.io/linter/lints/prefer_final_fields.html
     - prefer_final_in_for_each # https://dart-lang.github.io/linter/lints/prefer_final_in_for_each.html
