@@ -1,3 +1,6 @@
+##[0.4.1] - Jan 10, 2021
+* Remove invalid_factory_annotation
+
 ## [0.2.3] - Jan 09, 2021
 * Remove long String warning
 * Remove avoid_types_on_closure_parameters
