@@ -74,3 +74,6 @@ build/
 !**/ios/**/default.perspectivev3
 /.metadata
 /pubspec.lock
+
+# FVM Version Cache
+.fvm/
